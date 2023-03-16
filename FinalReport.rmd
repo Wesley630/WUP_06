@@ -109,13 +109,4 @@ with the black population there was 191 who were in favor and 257 who opposed. F
 
 
 
-With the data given to us for each branch we were given 2,867 data points versus the second branch we were given around 800 data points. This only gave us one set of data that can be seen as significant since the second data set given did not have enough information to allow for there to be significance in the fisherXY shoiwing the differences. we were able to see that overall for both data sets, the white population had the highest amount of those favoring the capital punishment with other population as the second highest and the black population as the lowest.
-
-
-
-
-
-
-
-
-
+With the data given to us for each branch we were given 2,867 data points versus the second branch we were given around 800 data points. This only gave us one set of data that can be seen as significant since the second data set given did not have enough information to allow for there to be significance in the fisherXY showing the differences. we were able to see that overall for both data sets, the white population had the highest amount of those favoring the capital punishment with other population as the second highest and the black population as the lowest.
