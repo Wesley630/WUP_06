@@ -72,7 +72,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-There is 68% of the white population in favor of capital punishment while 32% is opposes. other population has 61% in favor and 39% opposed and the black has 47% favor and 53% opposed the prcentages differ from thos in the master branch.
+There is 68% of the white population in favor of capital punishment while 32% is opposes. other population has 61% in favor and 39% opposed and the black has 47% favor and 53% opposed the percentages differ from those in the master branch, but are still very similar to each other.
 
 
 
@@ -87,6 +87,15 @@ chisq.test(table1)
 chisqtestGC(table1)
 fisher.test(table1)
 ```
+
+
+
+```{r}
+fisherXY (mydata$race,mydata$cappun, printAll=TRUE)
+```
+
+
+
 
 
 
